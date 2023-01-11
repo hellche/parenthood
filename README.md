@@ -1,3 +1,3 @@
-## Parenthood and Gender in Russian Academia
+## [rus] Parenthood and Gender in Russian Academia
 
-`Приложение_Родительство.pdf` - Supplementary materials for the paper *Parenthood and Gender in Russian Academia* [rus]
+`Приложение_Родительство.pdf` - Supplementary materials for the paper * [rus] Parenthood and Gender in Russian Academia*
